@@ -1,0 +1,11 @@
+---
+title: The Path Not Taken - File path incorrect
+format: html
+---
+
+```{r}
+#| label: read-data
+library(readr)
+penguins <- read_csv("the_penguins.csv")
+```
+

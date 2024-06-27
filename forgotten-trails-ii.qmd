@@ -1,0 +1,11 @@
+---
+title: 'Forgotten Trails II: Chunk option with trailing ", or not input'
+format: html
+---
+
+```{r}
+#| label: fig-volcano
+#| fig-cap: "An elevation plot of Maunga Whau (Mt Eden). Darker colours indicate higher parts of the volcano. We see one main peak on the left, followed by two smaller peaks on the right.
+image(volcano)
+```
+

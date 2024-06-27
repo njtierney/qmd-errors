@@ -1,0 +1,10 @@
+---
+title: 'Forgotten Trails I: Missing "(", or "}"'
+format: html
+---
+
+```{r
+#| label: fig-volcano
+image(volcano)
+```
+

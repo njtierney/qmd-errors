@@ -1,0 +1,12 @@
+---
+title: Legend of link
+format: html
+---
+
+# `![]("images/australia.png")`
+
+![]("images/australia.png")
+
+# `![](images/australia.png)`
+
+![](images/australia.png)

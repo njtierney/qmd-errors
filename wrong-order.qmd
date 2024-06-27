@@ -1,0 +1,12 @@
+---
+title: wrong order
+format: html
+---
+
+
+```{r}
+#| label: plot-table
+plot(my_table)
+
+my_table <- table(mtcars$cyl)
+```

@@ -1,0 +1,16 @@
+---
+title: duplicated-chunk-names
+format: html
+---
+
+```{r}
+#| label: repeated
+1+1
+```
+
+
+```{r}
+#| label: repeated
+2+2
+```
+

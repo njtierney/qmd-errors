@@ -1,0 +1,12 @@
+---
+title: 'Spolling II - Incorrectly spelled chunk option inputs'
+format: html
+---
+
+```{r}
+#| label: fig-volc
+#| cache: yes
+image(volcano)
+```
+
+Above is @fig-volc
