@@ -1,6 +1,17 @@
 ---
 title: 'Forgotten Trails II: Chunk option with trailing ", or not input'
-format: html
+format: 
+  html:
+    fig-align: center
+execute: 
+  eval: true
+  echo: true
+  output: true
+  warning: true
+  error: true
+  include: true
+  cache: true
+  freeze: true
 ---
 
 ```{r}
